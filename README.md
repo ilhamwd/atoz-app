@@ -1,16 +1,15 @@
-# atoz
+# Intallation Steps
 
-A new Flutter project.
+<ol>
+  <li>Make sure you have setup the API in your local</li>
+  <li>Open the cloned project with VSCode (recommended)</li>
+  <li>Open <pre>lib/api.dart</pre></li>
+  <li>Change <code>defaultApi</code> value to your computer's ip address</li>
+</ol>
 
-## Getting Started
+# Execution Steps
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ol>
+  <li>Connect your smartphone onto your computer</li>
+  <li>Press <pre>F5</pre> to run the app</li>
+</ol>
